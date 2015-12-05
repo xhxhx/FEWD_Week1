@@ -1,0 +1,35 @@
+body {
+  font-family: "Helvetica";
+}
+h1 {
+  color: white;
+  background-color: rgb(255, 150, 0);
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+h3 {
+  color: rgb(43, 43, 43);
+  font-size: 18px;
+  font-weight: 800;
+  font-family: "Merriweather", serif;
+}
+p {
+  font-size: 16px;
+  font-weight: 600;
+  font family: "Lato", sans-serif;
+  padding: 10px;
+}
+ul {
+  margin: 2%;
+  background-color: lightgray;
+  width: 20%;
+}
+li {
+  padding: 3%;
+}
+
+a {
+  text-decoration: none;
+  font-style: oblique;
+  font-weight: bold;
+}
