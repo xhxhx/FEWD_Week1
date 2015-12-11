@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(188, 226, 218);
+}
+header {
+  width: 60%;
+  margin: 0 auto -5%;
+}
+a {
+  font-style: normal;
+  color: black;
+}
+@font-face {
+    font-family: bakeryfont;
+    src: url(bakery.ttf);
+}
+.outerbox {
+  width: 55%;
+  height: 425px;
+  margin: 2% auto 5%;
+  background-color: #e7e7e7;
+  padding: 2%;
+}
+.h1-header {
+  font-family: bakeryfont;
+  font-size: 90px;
+}
+.navbar {
+  width: 50%;
+  margin: 1% auto;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+.myimage {
+  float: left;
+  padding-right: 2%;
+}
+.h3-header {
+  text-align: center;
+  margin: 0 auto 3%;
+  font-size: 28px;
+  font-family: "Open Sans", sans-serif;
+}
+.h4-subhead {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+.aboutmetext {
+  font-family: "Open Sans", sans-serif;
+}
+.contentbox {
+  background-color: #e7e7e7;
+  width: 60%;
+  margin: 3% auto 4%;
+  padding: 3%;
+}
+.h2-header {
+  font-family: bakeryfont;
+  font-size: 28px;
+}
+.portfoliotext{
+  font-family: "Open Sans", sans-serif;
+  margin-top: 1%;
+}
